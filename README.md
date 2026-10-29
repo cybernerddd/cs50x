@@ -42,7 +42,7 @@ My first CS50x project is an arcade-style game where the player acts as a firewa
 - Collision detection and game logic
 - Debugging and iterative development
 
-**Status:** Submitted — `check50` passed all 8 checks.
+**Status:** Submitted — `check50` passed all 8 checks. [project available here](https://scratch.mit.edu/projects/1396934266)
 
 ## Learning Goals
 
